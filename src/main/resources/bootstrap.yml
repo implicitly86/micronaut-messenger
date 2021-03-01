@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: micronaut-messenger
+  config-client:
+    enabled: true
+spring:
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8888/

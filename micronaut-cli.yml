@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.implicitly
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, graalvm, http-client, java, java-application, junit, logback, lombok, management, maven, micrometer, micrometer-prometheus, netty-server, openapi, reactor, readme, shade, yaml]
